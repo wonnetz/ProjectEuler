@@ -1,4 +1,5 @@
 # ProjectEuler
+![Project Euler](https://raw.githubusercontent.com/verloka/Project-Euler/master/march/logo.jpg)
 # Website: https://projecteuler.net/about 
 # Background: 
 Project Euler is a great way to combine my love for mathematics and programming. I'm currently working through the 5% difficulty portion of the puzzles/challenges. 
